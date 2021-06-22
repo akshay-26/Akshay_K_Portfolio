@@ -6,6 +6,7 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 import {AiOutlineFilePdf} from 'react-icons/ai'
 import {HiOutlineMailOpen} from 'react-icons/hi'
+import {GiAbstract049} from 'react-icons/gi'
 
 const Footer = () => {
   return (
@@ -24,7 +25,8 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Changing world one program at a time</Slogan>
+        <GiAbstract049 size ="1.7rem"/>
+          <Slogan>Changing world one program at a time</Slogan><GiAbstract049 size ="1.7rem"/>
         </CompanyContainer>
       <SocialContainer>
         <SocialIcons href="https://github.com/akshay-26" target="_blank">
