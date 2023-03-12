@@ -15,7 +15,7 @@ const Footer = () => {
         <LinkColumn>
         <AiOutlineFilePdf size="3rem" />
          <LinkTitle></LinkTitle>
-         <LinkItem href="https://drive.google.com/file/d/147N-oV11qGRk4dz8ddb2d5AuR7E7IHUx/view?usp=sharing2">Resume</LinkItem>
+         <LinkItem href="https://drive.google.com/file/d/1QyZiLx9RAWDc5wGGjoI6q97-a0Bxjk78/view?usp=sharing">Resume</LinkItem>
         </LinkColumn>
         <LinkColumn>
         <HiOutlineMailOpen size="3rem" />
